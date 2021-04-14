@@ -133,7 +133,7 @@ pep517==0.10.0
 pexpect==4.2.1
 phik==0.11.0
 pickleshare==0.7.5
-Pillow==6.2.2
+Pillow==8.1.1
 pkginfo==1.7.0
 plotly==4.14.1
 preshed==3.0.5
