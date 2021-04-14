@@ -174,7 +174,7 @@ PyTweening==1.0.3
 pytz==2018.3
 PyWavelets==1.1.1
 pyxdg==0.25
-PyYAML==3.12
+PyYAML==5.4
 pyzbar==0.1.8
 pyzmq==19.0.1
 readme-renderer==29.0
