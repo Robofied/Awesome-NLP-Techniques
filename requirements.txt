@@ -152,7 +152,7 @@ pycups==1.9.73
 pydantic==1.7.3
 pydeck==0.6.1
 PyGetWindow==0.0.9
-Pygments==2.6.1
+Pygments==2.7.4
 pygobject==3.26.1
 pyinotify==0.9.6
 pymacaroons==0.13.0
